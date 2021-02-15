@@ -1,2 +1,3 @@
-# spark-streaming-kafka
-Scripts to run sample Spark Streaming job on HDP.
+# Scripts and code files to run Spark Kafka jobs on HDP.
+
+WIP....
